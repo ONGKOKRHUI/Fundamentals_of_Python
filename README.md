@@ -1,7 +1,3 @@
-Of course. Here is a revised `README.md` file, written from your perspective to showcase it as your personal learning project.
-
------
-
 # My Python Learning Journey: Fundamentals of Python
 
 Welcome to my personal repository where I document my journey of learning the fundamentals of Python. This project is a collection of the code, exercises, and concepts I've worked through. It serves as my practical notebook for mastering the core principles of the language.
